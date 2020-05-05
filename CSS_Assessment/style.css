@@ -1,0 +1,40 @@
+body{
+    font-size:12px;
+    color:black;
+}
+
+nav{
+    top:0px;
+    background: #808080;
+    text-align:center;
+    margin:0;
+    padding:0;
+    
+}
+section {
+    text-align: center;
+    margin-top: 10px;
+}
+#left {
+    background: blue;
+    width: 50%;
+    float: left;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+#right {
+    float: right;
+    width: 25%;
+    background: red;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+footer{
+    background:green;
+    position: absolute;
+    bottom: 0;
+    width:100%;
+    text-align:center;
+   
+}
